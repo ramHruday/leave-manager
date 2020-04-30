@@ -29,7 +29,7 @@
     "classlist.js": "^1.1.20150312",
     "datatables.net": "^1.10.19",
     "datatables.net-dt": "^1.10.19",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-pick-datetime": "^7.0.0",
     "ngx-snackbar": "^2.0.1",
     "open-iconic": "^1.1.1",
